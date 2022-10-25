@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "LeviathanSRoyalty",
+			"Path": "D:\\UnrealRoyalty\\LeviathanSRoyalty\\Source\\LeviathanSRoyalty.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LeviathanSRoyaltyEditor",
+			"Path": "D:\\UnrealRoyalty\\LeviathanSRoyalty\\Source\\LeviathanSRoyaltyEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

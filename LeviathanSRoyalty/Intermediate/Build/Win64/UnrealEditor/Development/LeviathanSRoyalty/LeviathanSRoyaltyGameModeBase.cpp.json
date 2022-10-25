@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\unrealroyalty\\leviathansroyalty\\source\\leviathansroyalty\\leviathansroyaltygamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealroyalty\\leviathansroyalty\\intermediate\\build\\win64\\leviathansroyaltyeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unrealroyalty\\leviathansroyalty\\intermediate\\build\\win64\\unrealeditor\\development\\leviathansroyalty\\definitions.leviathansroyalty.h",
+            "d:\\unrealroyalty\\leviathansroyalty\\source\\leviathansroyalty\\leviathansroyaltygamemodebase.h",
+            "d:\\kurwa\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\kurwa\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\kurwa\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "d:\\kurwa\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\unrealroyalty\\leviathansroyalty\\intermediate\\build\\win64\\unrealeditor\\inc\\leviathansroyalty\\leviathansroyaltygamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
