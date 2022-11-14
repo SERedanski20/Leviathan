@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\UnrealRoyalty\\LeviathanSRoyalty\\Source\\LeviathanSRoyalty\\LeviathanSRoyalty.Build.cs",
-		"D:\\UnrealRoyalty\\LeviathanSRoyalty\\Source\\LeviathanSRoyalty.Target.cs",
-		"D:\\UnrealRoyalty\\LeviathanSRoyalty\\Source\\LeviathanSRoyaltyEditor.Target.cs"
+		"D:\\UnrealRoyalty\\Leviathan\\LeviathanSRoyalty\\Source\\LeviathanSRoyalty\\LeviathanSRoyalty.Build.cs",
+		"D:\\UnrealRoyalty\\Leviathan\\LeviathanSRoyalty\\Source\\LeviathanSRoyalty.Target.cs",
+		"D:\\UnrealRoyalty\\Leviathan\\LeviathanSRoyalty\\Source\\LeviathanSRoyaltyEditor.Target.cs"
 	],
 	"EngineVersion": "5.0.3"
 }

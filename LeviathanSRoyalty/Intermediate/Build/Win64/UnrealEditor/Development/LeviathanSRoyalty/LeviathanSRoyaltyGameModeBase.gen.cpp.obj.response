@@ -1,7 +1,7 @@
-D:\UnrealRoyalty\LeviathanSRoyalty\Intermediate\Build\Win64\UnrealEditor\Inc\LeviathanSRoyalty\LeviathanSRoyaltyGameModeBase.gen.cpp
+D:\UnrealRoyalty\Leviathan\LeviathanSRoyalty\Intermediate\Build\Win64\UnrealEditor\Inc\LeviathanSRoyalty\LeviathanSRoyaltyGameModeBase.gen.cpp
 /I .
-/I D:\UnrealRoyalty\LeviathanSRoyalty\Intermediate\Build\Win64\UnrealEditor\Inc\LeviathanSRoyalty
-/I D:\UnrealRoyalty\LeviathanSRoyalty\Source
+/I D:\UnrealRoyalty\Leviathan\LeviathanSRoyalty\Intermediate\Build\Win64\UnrealEditor\Inc\LeviathanSRoyalty
+/I D:\UnrealRoyalty\Leviathan\LeviathanSRoyalty\Source
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -273,12 +273,12 @@ D:\UnrealRoyalty\LeviathanSRoyalty\Intermediate\Build\Win64\UnrealEditor\Inc\Lev
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"D:\UnrealRoyalty\LeviathanSRoyalty\Intermediate\Build\Win64\LeviathanSRoyaltyEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"D:\UnrealRoyalty\LeviathanSRoyalty\Intermediate\Build\Win64\UnrealEditor\Development\LeviathanSRoyalty\Definitions.LeviathanSRoyalty.h"
-/Yu"D:\UnrealRoyalty\LeviathanSRoyalty\Intermediate\Build\Win64\LeviathanSRoyaltyEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\UnrealRoyalty\LeviathanSRoyalty\Intermediate\Build\Win64\LeviathanSRoyaltyEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"D:\UnrealRoyalty\LeviathanSRoyalty\Intermediate\Build\Win64\UnrealEditor\Development\LeviathanSRoyalty\LeviathanSRoyaltyGameModeBase.gen.cpp.obj"
-/sourceDependencies D:\UnrealRoyalty\LeviathanSRoyalty\Intermediate\Build\Win64\UnrealEditor\Development\LeviathanSRoyalty\LeviathanSRoyaltyGameModeBase.gen.cpp.json
+/FI"D:\UnrealRoyalty\Leviathan\LeviathanSRoyalty\Intermediate\Build\Win64\LeviathanSRoyaltyEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"D:\UnrealRoyalty\Leviathan\LeviathanSRoyalty\Intermediate\Build\Win64\UnrealEditor\Development\LeviathanSRoyalty\Definitions.LeviathanSRoyalty.h"
+/Yu"D:\UnrealRoyalty\Leviathan\LeviathanSRoyalty\Intermediate\Build\Win64\LeviathanSRoyaltyEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"D:\UnrealRoyalty\Leviathan\LeviathanSRoyalty\Intermediate\Build\Win64\LeviathanSRoyaltyEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"D:\UnrealRoyalty\Leviathan\LeviathanSRoyalty\Intermediate\Build\Win64\UnrealEditor\Development\LeviathanSRoyalty\LeviathanSRoyaltyGameModeBase.gen.cpp.obj"
+/sourceDependencies D:\UnrealRoyalty\Leviathan\LeviathanSRoyalty\Intermediate\Build\Win64\UnrealEditor\Development\LeviathanSRoyalty\LeviathanSRoyaltyGameModeBase.gen.cpp.json
 /Zc:inline
 /nologo
 /Oi

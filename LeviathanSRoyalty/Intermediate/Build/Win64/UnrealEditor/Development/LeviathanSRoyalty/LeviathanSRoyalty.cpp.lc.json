@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\unrealroyalty\\leviathan\\leviathansroyalty\\source\\leviathansroyalty\\leviathansroyalty.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealroyalty\\leviathan\\leviathansroyalty\\intermediate\\build\\win64\\leviathansroyaltyeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unrealroyalty\\leviathan\\leviathansroyalty\\intermediate\\build\\win64\\unrealeditor\\development\\leviathansroyalty\\definitions.leviathansroyalty.h",
+            "d:\\unrealroyalty\\leviathan\\leviathansroyalty\\source\\leviathansroyalty\\leviathansroyalty.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
