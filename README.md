@@ -1,7 +1,7 @@
-<h1 align="center">Logic Game Project</h1>
+<h1 align="center">Leviathan Game Project</h1>
 
 <p align = "center">
-  <img src="https://cdn.discordapp.com/attachments/910263001137963019/1043550827593343036/logo-removebg-preview_2.png" width="500px"/>
+  <img src="https://media.discordapp.net/attachments/1037452048054104064/1043911452622332055/A_letter_tech_logo-removebg-preview.png" width="500px"/>
 </p>
 
 <br>
@@ -16,7 +16,7 @@
 
 ## 📋 Description
   
-<i>This repo is all about our Educational Travelling Project. Our task was to create a game or an application in C++.The main character has gone back in time and is in need to return back to his timeline of life. But that won't be easy because firstly you will be tasked to go to the castle and do some tasks before finding the portal to escape. After you do that, you are free to go.</i>
+<i>Our character is a time traveler who accidentally wakes up in the 19th century to an abandoned English castle. His task is to solve all the puzzles related to historical and geographical events of that time. If he succeeds he will return to the present.</i>
 
 ## 🔧 Languages and Tools 
   <p align="left">
@@ -32,7 +32,7 @@
   
  ## 💼 Documents
   - [Documentation]()
-  - [Presentation]()
+  - [Presentation](https://prezi.com/p/edit/7ksi2ks_e0wg/)
   - [QA Documentation]()
 
 ## 🔧 Installation
@@ -43,12 +43,11 @@ You can download our project by using the green "Code" button.
 Or by pasting the following code in your CMD:
 git clone https://github.com/SERedanski20/Leviathan.git
 ```
- ## 🎬 Preview 
-
+  
  <p align="center"></p>
 
 ## 👋 Team Members
 * **Simeon Redanski** - *Scrum trainer* 
 * **Dimitar Vasilev** - *Back-end developer* 
-* **Daniel Mihalev** - *Back-end developer* 
+* **Daniel Mihalev** - *Front-end developer* 
 * **Trani Tranev** - *QA Engineer* 
