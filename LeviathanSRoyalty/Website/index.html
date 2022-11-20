@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Leviathan</title>
+    <link rel="stylesheet" type="text/css" href="Website/css/style.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin="" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+    <!--Add an logo to the title tab-->
+    <link rel="shortcut icon" href="">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body style="background-color:rgb(46, 8, 185);" >
+    
+    <main>
+        <!--Nav bar-->
+        <nav>
+            <div class="logo">
+                <a href="#home" class="logotext">Leviathan</a>
+            </div>
+            <ul class="nav-links">
+                <li><a href="#download">Download</a></li>
+                <li><a href="#about">About</a></li>
+                
+            </ul>
+            <!--Burger menu-->
+            <div class="burger">
+                <div class="line1"></div>
+                <div class="line2"></div>
+                <div class="line3"></div>
+            </div>
+        </nav>
+        <!--Section 1-->
+        <section class="section1" id="home">
+            <!--Parallax pictures-->
+             <img src="https://media.sketchfab.com/models/ecbeefd3212f447ba2f10f1986ad5769/thumbnails/cd63870f7f1b4156a7e8ca3b7a076790/0fb067f47afa48df86c98348ddf0bf02.jpeg" id="image">
+
+            <h1 id="heading">Leviathan</h1>
+        </section>
+        <!--Section 2-->
+            <section class="section2" id="download">
+                <h1 id="heading-section2">Download the game!</h1>
+                <div id="pic-grid">
+                    <div id="pic-container">
+                        <img class="game-pic" src="https://cdn1.epicgames.com/ue/product/Screenshot/screenmarket05-1920x1080-374a1e5e3b10b53d28b70fa3db3b1601.jpg?resize=1&w=1920">
+                    </div>
+                    <div class="pic-text">
+                        <h3 class="pic-text">Our character is a time traveler who accidentally wakes up in the 19th century to an abandoned English castle. His task is to solve all the puzzles related to historical and geographical events of that time. If he succeeds he will return to the present.</h3>
+                        <a class = "download-button" href = "https://github.com/SERedanski20/Leviathan.git">Download</a>
+                    </div>
+                </div>
+        <!--Section 3-->
+        <section class="section3" id="about">
+            <h1 id="cards-text">Our Team</h1>
+            <!--Pop-ups-->
+            <h3 id="cards-text">Click on the cards to see more detail!</h3>
+            <!--Flipping info cards-->
+            <div id="info-cards">
+                <!--Card 1-->
+                <div class="scene1">
+                    <div class="card1">
+                        <div class="face front1">
+                            <img class="pic" src="Website/images/Vard.png">
+                            <p class="pic-names">Dimitar</p>
+                        </div>
+                        <div class="face back1">
+                            <ul class="cardText">
+                                <li></li>
+                                <li>Back-end</li>
+                                <li></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <!--Card 2-->
+                <div class="scene2">
+                    <div class="card2">
+                        <div class="face front2">
+                            <img class="pic" src="Website/images/Wizzard.png">
+                            <p class="pic-names">Simeon</p>
+                        </div>
+                        <div class="face back2">
+                            <ul class="cardText">
+                                <li></li>
+                                <li>Back-end</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <!--Card 3-->
+                <div class="scene3">
+                    <div class="card3">
+                        <div class="face front3">
+                            <img class="pic" src="Website/images/Ogre.png">
+                            <p class="pic-names">Trani</p>
+                        </div>
+                        <div class="face back3">
+                            <ul class="cardText">
+                                <li></li>
+                                <li>QA</li>
+                                <li></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <!--Card 4-->
+                <div class="scene4">
+                    <div class="card4">
+                        <div class="face front4">
+                            <img class="pic" src="Website/images/Skeleton.png">
+                            <p class="pic-names">Daniel</p>
+                        </div>
+                        <div class="face back4">
+                            <ul class="cardText">
+                                <li>Front-end</li>
+                                <li></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <!--Card 5-->
+              
+
+
+
+        <!--Section 5-->
+        <section class="section5">
+            <!--Footer-->
+            <div class="footer-distributed">
+
+                <div class="footer-left">
+
+                    <h3>Pyramis Pulmentum</h3>
+
+                    <p class="footer-links">
+                        <a href="#download">Download</a> |
+                        <a href="#about">About</a> |
+                        <a href="#feedback">Feedback</a> 
+                    </p>
+
+                    <p class="footer-company-name">© 2022 Leviathan - No pain, no gain</p>
+                </div>
+
+                <div class="footer-center">
+                    <div>
+                        <i class="fa fa-map-marker"></i>
+                        <p><span>8000,
+                            Vasil Levski 34</span> Bulgaria, Burgas - 1234</p>
+                    </div>
+
+                    <div>
+                        <i class="fa fa-phone"></i>
+                        <p>088-634-6857</p>
+                    </div>
+                    <div>
+                        <p><i class="fa fa-envelope"></i>
+                            <nbsp;><a href="mailto:PyramisPulmentumProject@gmail.com">leviathan@gmail.com</a></p>
+                    </div>
+                </div>
+                <div class="footer-right">
+                    <p class="footer-company-about">
+                        <span>Social media</span> <strong>Support us by following us in our social media platforms!</strong><br>
+                        <strong>Thank you in advance! </strong></p>
+                    <div class="footer-icons">
+                        <a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a>
+                        <a href="https://twitter.com/"><i class="fa fa-twitter"></i></a>
+                        <a href="https://www.instagram.com/"><i class="fa fa-instagram"></i></a>
+                        <a href="https://www.linkedin.com/"><i class="fa fa-linkedin"></i></a>
+                        <a href="https://www.youtube.com/"><i class="fa fa-youtube"></i></a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+    
+    <script src="Website/JavaScript/main.js"></script>
+    <script src="Website/JavaScript/parallax.js"></script>
+</body>
+</html>
