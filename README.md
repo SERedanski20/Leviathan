@@ -33,7 +33,7 @@
  ## 💼 Documents
   - [Documentation]()
   - [Presentation](https://prezi.com/p/edit/7ksi2ks_e0wg/)
-  - [QA Documentation]()
+  - [QA Documentation](https://codingburgas-my.sharepoint.com/:w:/g/personal/tstranev20_codingburgas_bg/EQgn-PXXWCZIjJBk-ntOiw4B71y422r8XtWyRuguzrpd8w?e=zTf6Fb)
 
 ## 🔧 Installation
 
